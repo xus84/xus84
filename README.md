@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 💻 I can manage basic HTML, CCS, JAVASCRIPT & NODE.  <img src="https://energyframeworks.com/wp-content/uploads/2013/12/html5-css-javascript-logos.png" hight=200 width=200/>
+- 💻 I can manage basic HTML, CCS, JAVASCRIPT & NODE. I can build basic project using MERN stack.  <img src="https://energyframeworks.com/wp-content/uploads/2013/12/html5-css-javascript-logos.png" hight=200 width=200/>
 
 
 - 📱 I'm learning popular frameworks as REACT, ANGULAR and IONIC implement it for mobiles.
