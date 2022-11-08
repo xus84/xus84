@@ -3,11 +3,12 @@
 ### Hi there 👋
 
 
-- 💻 I can manage basic HTML, CCS, JAVASCRIPT, NODE & MongoDB. I can build basic projects using MERN stack.  <img src="https://energyframeworks.com/wp-content/uploads/2013/12/html5-css-javascript-logos.png" hight=200 width=200/>
+- 💻 Passionate junior web developer, first I learnt CMS technologies like WordPress to build light and speed web pages.
+- 🌱 Learning anything I can get my hands on!
+- 👯 Always looking to collaborate.
+- 👨🏻‍💻 Nowadays I'm familiar with MERN stack. 
+- 📫 Let's connect – [LinkedIn](https://www.linkedin.com/in/jesus-garcia-sanchis-72b884136/) | [Personal Website](https://xusdeveloper.com/)
 
-
-- 📱 I'm learning popular frameworks as REACT, ANGULAR and IONIC implement it for mobiles.
-- 🛒 I want to work on e-commerce proyects using these technologies and CMS like WordPress. 
 
 
     
